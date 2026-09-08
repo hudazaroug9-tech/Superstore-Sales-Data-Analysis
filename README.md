@@ -6,7 +6,7 @@ An end-to-end Data Analysis project analyzing retail sales performance, customer
 ---
 
 ## Interactive Dashboard Preview
-![Superstore Sales Dashboard](ضعِ_رابط_الصورة_هنا)
+![Superstore Sales Dashboard](https://github.com/hudazaroug9-tech/Superstore-Sales-Data-Analysis/blob/main/Screenshot%202026-09-08%20183900.png?raw=true)
 
 ---
 
